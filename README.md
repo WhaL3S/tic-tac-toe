@@ -1,1 +1,2 @@
+# tic-tac-toe
 Since childhood, everyone knows what kind of game tic-tac-toe is. If you really don't know, it is game where to players play against each other by putting their symbols into the 3 x 3 square. They can choose to be "x" or "o". When one of the players completely occupy one line, one column, or diagonal with his symbol faster than opponent, he will win immediately. This code is created as a simulation of this game in the console application for beginners studying c#. The code is very simple and understandable for any beginner. Thank you for your attention!
